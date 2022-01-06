@@ -5,3 +5,12 @@
 width: 100%;
 height: 100%;
 }
+ul li{
+    display: inline-block;
+  }
+  .left-side ul li{
+    display: block;
+  }
+  .right-sidebar-menu ul li{
+    display: block;
+  }
