@@ -97,7 +97,7 @@ header h1 {
     text-decoration: none;
   }
   
-  a:hover {
+  a :hover {
     padding: 5px 10px;
     background: #3F8DA7;
     color: white;
